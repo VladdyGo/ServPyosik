@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Pyosik/.idea/Pyosik.iml" filepath="$PROJECT_DIR$/../Pyosik/.idea/Pyosik.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pyosikserv.iml" filepath="$PROJECT_DIR$/.idea/pyosikserv.iml" />
     </modules>
   </component>
